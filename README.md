@@ -1,5 +1,3 @@
-# office-ltsc-pro-plus-2024-install-guide
-Step-by-step guide to install Microsoft Office LTSC Pro Plus 2024 on Windows using the Office Deployment Tool.
 # How to Install Microsoft Office LTSC Pro Plus 2024
 
 This repository provides a step-by-step guide to install Microsoft Office LTSC Pro Plus 2024 on a Windows PC using the Office Deployment Tool (ODT).
