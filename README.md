@@ -125,5 +125,16 @@ If the installation or activation fails, check the following:
 
 Installing Microsoft Office LTSC Pro Plus 2024 with the Office Deployment Tool gives you a controlled and streamlined setup process.
 
+## FAQ
+
+### Does this work on Mac?
+No. This guide is for Windows PC only.
+
+### Can I reuse the key after reinstalling Windows?
+That depends on the license type and whether it is being reactivated on the same PC.
+
+### Do I need internet during installation?
+Yes, it is recommended.
+
 If you need more software resources, setup help, or activation guides, visit Digital Keys Depot:
 https://digitalkeysdepot.com/
